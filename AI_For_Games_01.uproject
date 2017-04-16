@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.15",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AI_For_Games_01",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
